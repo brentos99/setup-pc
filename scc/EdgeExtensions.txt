@@ -1,0 +1,1 @@
+okta,ncoafaeidnkeafiehpkfoeklhajkpgij,https://edge.microsoft.com/extensionwebstorebase/v1/crx

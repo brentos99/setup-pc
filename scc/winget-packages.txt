@@ -1,0 +1,8 @@
+Git.Git
+Microsoft.Office
+Microsoft.Teams
+Microsoft.Powershell
+Notepad++.Notepad++
+Microsoft.VisualStudioCode
+Microsoft.VisualStudio.2022.Enterprise
+Docker.DockerDesktop
